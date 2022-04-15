@@ -1,0 +1,25 @@
+{
+  "name": "semana-js-expert06",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "repository": "git@github.com:PedroPerozin/semana-js-expert06.git",
+  "scripts": {
+    "start": "node server/index.js",
+    "live-reload": "nodemon server/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "17"
+  },
+  "author": "pedroperozin <perozin_pan@hotmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "27",
+    "nodemon": "2"
+  },
+  "dependencies": {
+    "pino": "^7.8.0",
+    "pino-pretty": "^7.5.3"
+  }
+}

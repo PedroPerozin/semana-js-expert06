@@ -6,12 +6,10 @@ Marque esse projeto com uma estrela 🌟
 
 Acesse a [**comunidade exclusiva no discord**](https://bit.ly/semanajsexpert-discord) para tirar suas dúvidas e conhecer pessoas: 
 
-<<<<<<< HEAD
 ## Preview
 
 <img src="./prints/demo.png" />
-=======
->>>>>>> 2cb114ebe1fc859d26ed64575e8e39e1d0e4dbc0
+
 ## Checklist Features
 
 - Web API
